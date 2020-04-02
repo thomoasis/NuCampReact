@@ -106,7 +106,7 @@ class Contact extends Component {
 
             <div className="row row-content align-items-center">
                 <div className="col-sm-4">
-                    <h5>Our Address</h5>
+                    <h5>Out Address</h5>
                     <address>
                         1 Nucamp Way<br />
                         Seattle, WA 98001<br />
